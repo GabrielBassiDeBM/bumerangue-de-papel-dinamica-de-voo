@@ -4,6 +4,8 @@
 
 Gabriel Bassi — Equipe Brasil, International Young Physicists' Tournament (IYPT) 2025, Problema 1 ("Paper Boomerang").
 
+**[Ler o artigo online](https://gabrielbassidebm.github.io/bumerangue-de-papel-dinamica-de-voo/)** · [Abrir o PDF](main.pdf) · [Baixar o PDF](https://github.com/GabrielBassiDeBM/bumerangue-de-papel-dinamica-de-voo/raw/main/main.pdf)
+
 ## Resumo
 
 Um bumerangue que retorna pode ser dobrado a partir de uma única folha de papel. Este trabalho modela seu voo pela teoria do elemento de pá e pela precessão giroscópica do eixo de rotação $\hat{\boldsymbol s}$, descrita pelo mapa exponencial de $SO(3)$:
@@ -39,12 +41,27 @@ $$
 
 As previsões são comparadas com lançamentos reprodutíveis de bumerangues de duas, três e quatro asas, feitos com uma catapulta de madeira liberada por um atuador linear controlado por EV3.
 
+## O artigo
+
+O artigo completo, página a página. Para ler com zoom ou baixar, use os links no topo.
+
+![Página 1](paginas/pagina-01.jpg)
+![Página 2](paginas/pagina-02.jpg)
+![Página 3](paginas/pagina-03.jpg)
+![Página 4](paginas/pagina-04.jpg)
+![Página 5](paginas/pagina-05.jpg)
+![Página 6](paginas/pagina-06.jpg)
+![Página 7](paginas/pagina-07.jpg)
+![Página 8](paginas/pagina-08.jpg)
+
 ## Arquivos
 
 - `main.tex`: fonte LaTeX (REVTeX 4.2, português)
 - `references.bib`: referências
 - `figures/`: figuras
 - `main.pdf`: artigo compilado
+- `paginas/`: páginas do artigo em imagem
+- `index.html`: página de leitura (GitHub Pages)
 
 ## Compilação
 
